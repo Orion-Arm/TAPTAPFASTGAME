@@ -1,0 +1,9 @@
+Create by Mr Python Programmer
+
+Red use W key 
+Blue use UP arrow key
+
+Player who reach opposite side of screen will win 
+
+You have tap fastly while playing
+Ok Good Luck 
