@@ -1,4 +1,3 @@
-Create by Mr Python Programmer
 
 Red use W key 
 Blue use UP arrow key
